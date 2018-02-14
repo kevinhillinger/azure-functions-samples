@@ -2,7 +2,7 @@
 
 This sample demonstrates the use of the Azure Functions feature of supporting a `lib` directory for your Java dependencies.
 
-## Testing locally
+## Running locally
 
 In another terminal session, pull down the `dev` branch of the azure functions java worker, and compile it.
 

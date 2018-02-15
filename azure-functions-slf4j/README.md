@@ -17,7 +17,7 @@ Next, install the Azure Functions core tools, and copy the latest worker
 CORE_TOOLS_PATH=/usr/local/lib/node_modules/azure-functions-core-tools/bin/workers/java/
 
 sudo npm install -g azure-functions-core-tools@core --unsafe-perm true
-sudo mv ${CORE_TOOLS_PATH}/azure-functions-java-worker.java ${CORE_TOOLS_PATH}/azure-functions-java-worker.java.current
+sudo mv ${CORE_TOOLS_PATH}/azure-functions-java-worker.jar ${CORE_TOOLS_PATH}/azure-functions-java-worker.jar.backup
 
 sudo cp <directory of azure functions java worker clone>/azure-functions-java-worker/target/azure-functions-java-worker-1.0.0-beta-2.jar ${CORE_TOOLS_PATH}/azure-functions-java-worker.jar
 ```

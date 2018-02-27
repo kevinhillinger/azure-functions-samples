@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=3bd2bc580e884ee0847e;AccountKey=qDfxSWUP/zNkLT2R5gaafRqfGBIIo91rIKTFXqLWsvSlthUeea4i+aVibo9426TV8L6ZIQ4PHvMLOsUUrh2ECw==;EndpointSuffix=core.windows.net",
+    "AzureWebJobsDashboard": "",
+    "servicebusconnection": "<add your service bus connection>"
+  }
+}

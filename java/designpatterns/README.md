@@ -1,0 +1,2 @@
+# Azure Functions Singleton Sample
+

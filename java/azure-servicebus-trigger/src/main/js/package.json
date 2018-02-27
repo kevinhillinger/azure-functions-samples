@@ -1,0 +1,16 @@
+{
+  "name": "smoke",
+  "version": "0.0.1",
+  "description": "smoke test for the new asb extensions",
+  "main": "sendHelloMessage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "azure": "^2.2.1-preview",
+    "azure-sb": "^0.10.5",
+    "dotenv": "^5.0.1"
+  }
+}
